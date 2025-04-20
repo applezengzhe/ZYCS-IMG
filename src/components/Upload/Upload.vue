@@ -11,7 +11,7 @@
       </svg>
       <p>
         <span>点击上传 / 拖拽上传</span>
-        <span>上传违反中国大陆、香港及美国法律的图片将会直接删除，并封禁设备IP</span>
+        <span>请不要上传违法图片</span>
       </p>
     </div>
   </section>
